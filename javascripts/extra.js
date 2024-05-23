@@ -1,3 +1,14 @@
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  },
+  options: {
+    ignoreHtmlClass: ".*|",
+    processHtmlClass: "arithmatex"
+  }
+};
+
 document.addEventListener("DOMContentLoaded", function() {
     // 获取导航栏右侧容器
     var navRight = document.querySelector(".md-header__inner .md-header__title");
