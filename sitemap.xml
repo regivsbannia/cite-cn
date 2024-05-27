@@ -2,52 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/astrology/test_astrology/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/customize/SN1a/SN1a/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/customize/share/navi/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://regivsbannia.github.io/cite-cn/education/read_note/read_test_pdf/</loc>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/home/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/home/post/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/lye/test_photo/test_photo/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/mcbe/bds/bds/</loc>
-         <lastmod>2024-05-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://regivsbannia.github.io/cite-cn/memo/beiwanglu/test_beiwanglu/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/note/galaxy_astro/beacon/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://regivsbannia.github.io/cite-cn/other/beiwanglu/test_beiwanglu/</loc>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://regivsbannia.github.io/cite-cn/other/transit/transit/</loc>
-         <lastmod>2024-05-26</lastmod>
+         <lastmod>2024-05-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
